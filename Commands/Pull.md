@@ -1,4 +1,4 @@
-#git pull
+# git pull
 
 Similar to a [git push](./PUSH.md), a `git pull` will interact with a remote repository.
 
